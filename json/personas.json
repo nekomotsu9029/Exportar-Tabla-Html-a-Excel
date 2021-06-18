@@ -1,0 +1,24 @@
+{
+    "personas": [
+        {
+            "id": "1111",
+            "nombre": "Gintoki",
+            "edad": "27"
+        },
+        {
+            "id": "2222",
+            "nombre": "Kagura",
+            "edad": "14"
+        },
+        {
+            "id": "3333",
+            "nombre": "Katsura",
+            "edad": "25"
+        },
+        {
+            "id": "4444",
+            "nombre": "Tsukuyo",
+            "edad": "23"
+        }
+    ]
+}
